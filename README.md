@@ -24,3 +24,7 @@ const firebaseConfig = {
 and enjoy...
 
 > \$ yarn start
+
+#### Demo
+
+![Demonya](sample.gif)
